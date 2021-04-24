@@ -1,0 +1,22 @@
+body{
+    background: radial-gradient(circle, white, yellow, green);
+    display: flex;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    height: 100vh;
+    font-size: 30px;
+}
+.container{
+    margin: auto;
+    padding: 20px;
+    /* background: radial-gradient(circle, purple, rgb(0, 0, 151)); */
+    width: auto;
+    height: 130px;
+    text-align: center;
+}
+/* p{
+}    */
+/* button, input{
+    font-size: inherit; 
+}   */
